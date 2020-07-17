@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TransitionLayout</string>
+    <string name="title">Premier League fixtures live on Sky Sports: Manchester derby in December festive schedule</string>
+    <string name="secondary_text">United and City are back on Super Sunday the following weekend, with Ole Gunnar Solskjaer\'s side hosting Everton at Old Trafford on December 15 before Pep Guardiola takes his team to Arsenal.  The first M23 derby of the season gets the Monday Night Football treatment on December 16 as Crystal Palace host rivals Brighton, and then attention turns to the final round of fixtures before Christmas.</string>
+    <string name="action_1">Read More</string>
+
+    <string name="transition_image">transition_image</string>
+    <string name="transition_body">transition_body</string>
+    <string name="transition_title">transition_title</string>
+    <string name="transition_container">transition_container</string>
+</resources>
